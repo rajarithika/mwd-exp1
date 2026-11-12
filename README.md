@@ -1,4 +1,4 @@
-# Exp 1 – React Lab Exercise: Understanding React File Structure
+# Exp1 –  React Lab Exercise: Understanding React File Structure
 
 ## **NAME: Raja Rithika**
 
